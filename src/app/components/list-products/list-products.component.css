@@ -1,0 +1,20 @@
+.title{
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.tabla{
+  margin-left: 10px;
+  margin-right: 200px;
+
+}
+
+.boton{
+
+  align-items: center;
+}
+
